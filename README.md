@@ -8,7 +8,6 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ---
 
